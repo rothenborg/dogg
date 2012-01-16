@@ -1,9 +1,7 @@
-@charset "UTF-8";
-/* CSS Document */
-
-
-
-
-*{
-  			margin:0 auto; 
-  		}
+/*
+ * Dogg stylesheet, extends bootstrap
+ *
+ */
+body {
+  background-color: #f4e1c8;
+}
